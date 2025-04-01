@@ -2,20 +2,16 @@
 
 [![Build Status](https://github.com/numworks/epsilon/workflows/Continuous%20integration/badge.svg)](https://github.com/numworks/epsilon/actions?workflow=Continuous+integration)
 
-Epsilon is a high-performance graphing calculator operating system. It includes eight apps that cover the high school mathematics curriculum.
+Lambda OS is an open source alternitive to Epslon for Numworks calculators.
 
-You can try Epsilon straight from your browser in the [online simulator](https://www.numworks.com/simulator/).
+Lambda adds meny features that are missing from Epslon such a CAS, RPN(Reverse Polish Notation Calculator), and even a plugin installer!
 
-## Diving in
+## Disclaimer
 
-We highly recommend you start by reading the [online documentation](https://www.numworks.com/resources/engineering/software/) for this project. You'll learn how to install the [SDK](https://www.numworks.com/resources/engineering/software/build/) and about the overall architecture of the Epsilon.
+Contributers to Lambda OS are not in anyway responsible for Damage caused to your calculator. Some features such as the CAS might not be allowed on tests. If any features on this OS are used for cheating we are in no way responsible. To insure ceating is prevented a spalsh screen will warn that the student is running unoffical software. YOU HAVE BEEN WARNED!
 
-## Contributing
-
-If you run into an issue, we would be very happy if you would file a bug on the [issue tracker](https://github.com/numworks/epsilon/issues).
-
-We welcome contributions. For smaller changes just open a pull request straight away. For larger changes we recommend you open an issue first for discussion.
-
+## Installing
+Lambda os works by installing a false update
 ## Copyright
 
 All rights reserved. NumWorks is a registered trademark.
