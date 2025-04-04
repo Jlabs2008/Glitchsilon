@@ -14,3 +14,5 @@ Lambda os works by installing a false update to the calculator. After it's insta
 All rights reserved. NumWorks is a registered trademark.
 
 ## Credits
+This project would not have been possible with out the help from meny people!
+Thanks to Jean-Baptiste Boric aka boricj for creating an Awsome RPN app that we could use to adapt!
